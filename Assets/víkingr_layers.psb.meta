@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 4e6755e48620e854aadab38e95420fb1
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO"
+    100006: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_arm_l"
+    100008: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_arm_r"
+    100010: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_body"
+    100012: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_head"
+    100014: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_leg_l"
+    100016: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_leg_r"
+    400000: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/Transform"
+    400006: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_arm_l/Transform"
+    400008: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_arm_r/Transform"
+    400010: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_body/Transform"
+    400012: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_head/Transform"
+    400014: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_leg_l/Transform"
+    400016: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_leg_r/Transform"
+    2800000: "v\xEDkingr_layers"
+    21200004: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_arm_l/SpriteRenderer"
+    21200006: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_arm_r/SpriteRenderer"
+    21200008: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_body/SpriteRenderer"
+    21200010: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_head/SpriteRenderer"
+    21200012: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_leg_l/SpriteRenderer"
+    21200014: "v\xEDkingr_layers_GO/v\xEDkingr_layers_GO/v\xEDkingr_leg_r/SpriteRenderer"
+    21300004: "v\xEDkingr_head"
+    21300006: "v\xEDkingr_body"
+    21300008: "v\xEDkingr_leg_r"
+    21300010: "v\xEDkingr_leg_l"
+    21300012: "v\xEDkingr_arm_r"
+    21300014: "v\xEDkingr_arm_l"
+    100100000: "v\xEDkingr_layers_GO"
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "v\xEDkingr_head"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 231
+      height: 304
+    spriteID: b3eed01e46210f342ba794fa64496172
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -52, y: -215}
+  - name: "v\xEDkingr_body"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 4
+      width: 236
+      height: 226
+    spriteID: c8140e26b5c26e642b871f82832e3c16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 202, y: -128}
+  - name: "v\xEDkingr_leg_r"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 316
+      width: 129
+      height: 180
+    spriteID: 6832978b6a8423742a01f86ef4a331f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -85, y: 316}
+  - name: "v\xEDkingr_leg_l"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 238
+      width: 99
+      height: 173
+    spriteID: 5b83f04aca68ba844ae3b2be5a4c0622
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 207, y: 238}
+  - name: "v\xEDkingr_arm_r"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 238
+      width: 98
+      height: 201
+    spriteID: 4e994ff9db76b6c4689e3a10222ec61d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 243, y: 134}
+  - name: "v\xEDkingr_arm_l"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 141
+      y: 316
+      width: 76
+      height: 186
+    spriteID: 1d17a95143c2cac4ebfdd890dc6fb605
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -98, y: 205}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 512
+  documentSize: {x: 315, y: 523}
+  textureActualWidth: 512
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "v\xEDkingr_head"
+    spriteName: "v\xEDkingr_head"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b3eed01e46210f342ba794fa64496172
+    layerID: 8
+    mosaicPosition: {x: 4, y: 4}
+  - name: "v\xEDkingr_body"
+    spriteName: "v\xEDkingr_body"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c8140e26b5c26e642b871f82832e3c16
+    layerID: 7
+    mosaicPosition: {x: 243, y: 4}
+  - name: "v\xEDkingr_leg_r"
+    spriteName: "v\xEDkingr_leg_r"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6832978b6a8423742a01f86ef4a331f3
+    layerID: 6
+    mosaicPosition: {x: 4, y: 316}
+  - name: "v\xEDkingr_leg_l"
+    spriteName: "v\xEDkingr_leg_l"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5b83f04aca68ba844ae3b2be5a4c0622
+    layerID: 5
+    mosaicPosition: {x: 349, y: 238}
+  - name: "v\xEDkingr_arm_r"
+    spriteName: "v\xEDkingr_arm_r"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4e994ff9db76b6c4689e3a10222ec61d
+    layerID: 4
+    mosaicPosition: {x: 243, y: 238}
+  - name: "v\xEDkingr_arm_l"
+    spriteName: "v\xEDkingr_arm_l"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d17a95143c2cac4ebfdd890dc6fb605
+    layerID: 3
+    mosaicPosition: {x: 141, y: 316}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  firstCreate: 0
+  generateGOHierarchy: 1
